@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am dome
+=======
+I am other
+>>>>>>> 46091e45553dc404eca46fafb147576ac6e05f58
